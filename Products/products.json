@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Bastarda Robin – 113cm",
+    "type": "arma",
+    "description": "Por un precio asequible, obtén nuestra arma de recreación totalmente segura. Todas las armas de LARP de la Edición Básica están construidas con componentes robustos. El mango está moldeado en una sola pieza y está hecho de un material foam más blando. La cuchilla proviene de nuestra línea «Classic» y está firmemente conectada con el mango a la espada terminada.",
+    "filename": "0.jpg",
+    "height": 600,
+    "width": 400,
+    "price": 69.90,
+    "rating": 4
+  },
+  {
+    "title": "Armadura Churburg",
+    "type": "armadura",
+    "description": "Esta armadura protege la parte delantera y trasera del torso y el abdomen. La placa descansa en la cintura y está esculpida para adaptarse al cuerpo y agregar resistencia estructural. La pieza del pecho está adornada con una amplia «V» en el frente para desviar los ataques de la cabeza. Es totalmente utilizable con otros productos de metal de Epic Armoury, lo que le da la libertad de personalizar el equipo de su personaje. Hecho de acero dulce de 1 mm de grosor y correas y accesorios de cuero de grano superior, esta pieza de armadura está construida para resistir el abuso de un LARP o una recreación con el cuidado regular de cuero y metal.",
+    "filename": "1.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 230,
+    "rating": 4
+  },
+  {
+    "title": "Tabardo – Rojo/Negro",
+    "type": "vestuario",
+    "description": "Como Caballero, tu código de honor se rige por el valor, la verdad y el coraje. Debes defender a los inocentes y los débiles, y hoy se está poniendo a prueba tu juramento. Fuera de la ciudad, ha habido un ataque de bandidos contra un comerciante y su familia, depende ti rescatarlos. Tu escudero asegura a tu Tabardo Negro/Azul tras ponerte la armadura y, con una oración a tu dios, tú y tu pequeña unidad de soldados os lanzáis al ataque. Los colores de vuestro tabardo son un recordatorio de que representas a una casa noble y que lucha en nombre de la justicia.",
+    "filename": "2.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 59.90,
+    "rating": 3
+  },
+  {
+    "title": "Bolsa de Cuero Marrón Thor",
+    "type": "accesorio",
+    "description": "Esta bolsa con el grabado del Mjolnir, el martillo de la deidad Thor, es una gran bolsa de cuero diseñada para colgar de un cinturón.",
+    "filename": "3.jpg",
+    "height": 600,
+    "width": 399,
+    "price": 39.90,
+    "rating": 4
+  }
+]
